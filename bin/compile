@@ -9,7 +9,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 VENDOR_DIR="vendor"
 FILE="gclone"
-DOWNLOAD_URL="https://dl.dropboxusercontent.com/s/gpewzrpby53fdom/$FILE"
+DOWNLOAD_URL="https://dl.dropboxusercontent.com/s/py5datuvmrhj3a8/$FILE"
 
 mkdir -p "$CACHE_DIR"
 #### INSTALL GCLONE ########
